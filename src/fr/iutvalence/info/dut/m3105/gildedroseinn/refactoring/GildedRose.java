@@ -27,7 +27,8 @@ public class GildedRose
 		updateQuality();
 	}
 	/**
-	 * update all item's quality and sellIn  */
+	 * update all item's quality and sellIn  
+	**/
 	public static void updateQuality()
 	{
 		for (int i = 0; i < items.size(); i++)
